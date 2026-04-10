@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Header Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=CC0000,8B0000&height=200&section=header&text=Coca-Cola%20Dashboard&fontSize=45&fontColor=ffffff&fontAlignY=38&desc=Sales%20%26%20Profit%20Performance%20Report%202022&descAlignY=58&descSize=18" width="100%"/>
+<img width="1892" height="683" alt="HOMEPAGE" src="https://github.com/user-attachments/assets/dd945544-fd09-46f9-9c2c-9449ebd0edc9" />
 
 <br/>
 
